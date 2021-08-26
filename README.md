@@ -1,6 +1,7 @@
 # pinterest
 
-A new Flutter project.
+Esta aplicacion sirve como base para realizar un menu controlado que desaparesca cuando el usuario haga scroll en la pantalla
+
 
 ## Getting Started
 
